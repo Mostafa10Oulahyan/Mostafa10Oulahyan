@@ -1,13 +1,13 @@
 Hello and welcome to my profile!
-👤 About Me
-  -I am currently a Digital Development student at ISTA NTIC Tangier (OFPPT), passionate about creating modern, high-performance web applications.
-  -I have a versatile Full Stack Developer profile with strong skills across both front-end and back-end technologies.
-💻 Technical Skills
-  Front-End:
-      -React.js
-      -JavaScript (ES6+)
-      -HTML5, CSS3
-      -Bootstrap, Tailwind CSS
+#👤 About Me
+  - I am currently a Digital Development student at ISTA NTIC Tangier (OFPPT), passionate about creating modern, high-performance web applications.
+  - I have a versatile Full Stack Developer profile with strong skills across both front-end and back-end technologies.
+#💻 Technical Skills
+  #Front-End:
+      - React.js
+      - JavaScript (ES6+)
+      - HTML5, CSS3
+      - Bootstrap, Tailwind CSS
   Back-End:
       -PHP, Laravel
       -Python
