@@ -40,13 +40,20 @@ I have a **versatile Full Stack Developer profile**, with strong skills across b
 ![Supabase](https://img.shields.io/badge/Mongodb-green)
 
 ### 🔧 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC)
+![Postman](https://img.shields.io/badge/Postman-FF6C37)
 ![Git](https://img.shields.io/badge/Git-F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED)
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue)
+![REST API](https://img.shields.io/badge/REST-API-orange)
 
 ---
+### 🎨 Design & Collaboration
+![Figma](https://img.shields.io/badge/Figma-F24E1E)
+![Jira](https://img.shields.io/badge/Jira-0052CC)
 
+---
 ## 📌 What I Do
 
 - ✅ Build scalable & high-performance web applications  
