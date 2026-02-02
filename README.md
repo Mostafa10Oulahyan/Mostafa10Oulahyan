@@ -31,12 +31,13 @@ I have a **versatile Full Stack Developer profile**, with strong skills across b
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933)
 ![Express](https://img.shields.io/badge/Express.js-black)
-![PHP](https://img.shields.io/badge/PHP-Backend-blue)
+![PHP](https://img.shields.io/badge/PHP-Laravel-red)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E)
+![Supabase](https://img.shields.io/badge/Mongodb-green)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032)
