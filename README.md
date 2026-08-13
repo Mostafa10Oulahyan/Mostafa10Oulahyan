@@ -1,6 +1,6 @@
 # Hi, I'm Mostafa
 # 💫 About Me:
- Full Stack Developer | Digital Development Student<br>🚀 About Me<br>I am currently a Digital Development student at ISTA NTIC Tangier (OFPPT), passionate about creating modern, high-performance web applications.<br><br>I have a versatile Full Stack Developer profile, with strong skills across both front-end and back-end technologies.<br><br>🎯 Currently looking for an Internship to improve my skills and grow as a developer.<br><br>📌 What I Do<br>✅ Build scalable & high-performance web applications<br>🧠 Learn new technologies & improve continuously<br>🤝 Contribute to open-source projects
+<br>I am currently a Digital Development student at ISTA NTIC Tangier (OFPPT), passionate about creating modern, high-performance web applications.<br><br>I have a versatile Full Stack Developer profile, with strong skills across both front-end and back-end technologies.<br><br>🎯 Currently looking for an Internship to improve my skills and grow as a developer.<br><br>📌 What I Do :<br> ✅ Build scalable & high-performance web applications<br> 🧠 Learn new technologies & improve continuously<br> 🤝 Contribute to open-source projects
 
 
 ## 🌐 Socials:
