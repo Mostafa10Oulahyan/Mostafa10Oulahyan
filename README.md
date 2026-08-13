@@ -1,63 +1,23 @@
-# 👋 Hi, I'm Mostafa
+# Hi, I'm Mostafa
+# 💫 About Me:
+ Full Stack Developer | Digital Development Student<br>🚀 About Me<br>I am currently a Digital Development student at ISTA NTIC Tangier (OFPPT), passionate about creating modern, high-performance web applications.<br><br>I have a versatile Full Stack Developer profile, with strong skills across both front-end and back-end technologies.<br><br>🎯 Currently looking for an Internship to improve my skills and grow as a developer.<br><br>📌 What I Do<br>✅ Build scalable & high-performance web applications<br>🧠 Learn new technologies & improve continuously<br>🤝 Contribute to open-source projects
 
-### 💻 Full Stack Developer | Digital Development Student
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mostapha_oulahyan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafa-oulahyan-6220b435a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostaphaoulahyan@gmail.com) 
 
-## 🚀 About Me
-
-I am currently a **Digital Development student at ISTA NTIC Tangier (OFPPT)**, passionate about creating **modern, high-performance web applications**.
-
-I have a **versatile Full Stack Developer profile**, with strong skills across both **front-end** and **back-end** technologies.
-
-🎯 **Currently looking for an Internship** to improve my skills and grow as a developer.
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![PHP](https://img.shields.io/badge/PHP-777BB4)
-![Python](https://img.shields.io/badge/Python-3776AB)
-![SQL](https://img.shields.io/badge/SQL-003B57)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933)
-![Express](https://img.shields.io/badge/Express.js-black)
-![PHP](https://img.shields.io/badge/PHP-Laravel-red)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E)
-![Supabase](https://img.shields.io/badge/Mongodb-green)
-
-### 🔧 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC)
-![Postman](https://img.shields.io/badge/Postman-FF6C37)
-![Git](https://img.shields.io/badge/Git-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Docker](https://img.shields.io/badge/Docker-2496ED)
-![CI/CD](https://img.shields.io/badge/CI/CD-blue)
-![REST API](https://img.shields.io/badge/REST-API-orange)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mostafa10Oulahyan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mostafa10Oulahyan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mostafa10Oulahyan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-### 🎨 Design & Collaboration
-![Figma](https://img.shields.io/badge/Figma-F24E1E)
-![Jira](https://img.shields.io/badge/Jira-0052CC)
+[![](https://komarev.com/ghpvc/?username=Mostafa10Oulahyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-## 📌 What I Do
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/MOSTAFAOulahyan) 
 
-- ✅ Build scalable & high-performance web applications  
-- 🧠 Learn new technologies & improve continuously  
-- 🤝 Contribute to open-source projects  
-
----
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
